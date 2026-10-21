@@ -8,7 +8,6 @@
     "admin.html"
   ],
   "protected_files": [
-    "firebase.js",
     "firebaseConfig.js",
     "menu.html"
   ]
